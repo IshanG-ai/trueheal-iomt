@@ -1,7 +1,6 @@
 # TRuHEAL-IoMT
 
-**Code implementation by [Ishan Gupta](https://github.com/IshanG-ai)** (@IshanG-ai) and vaishalimeena
-@vaishalimeena
+**Code implementation by [Vaishali Meena](https://github.com/vaishalimeena) and [Ishan Gupta](https://github.com/IshanG-ai)** (@IshanG-ai) 
 
 
 PyTorch implementation of TRuHEAL, from *"Proactive Trust-Driven Intrusion Detection in IoMT-Based
@@ -11,7 +10,7 @@ Pipeline: AETL (EWMA + window moments) -> Type-3 fuzzy trust (z-slice, Karnik-Me
 WGAN-GP reputation -> adaptive fusion -> Zero-Trust decision (Allow / Challenge / Deny).
 
 ## Authorship
-- **Code, experiments, ablations, synthetic evaluation and ns-3 pipeline:** Ishan Gupta
+- **Code, experiments, ablations, synthetic evaluation and ns-3 pipeline:** Vaishali Meena and Ishan Gupta
 - **Method and paper:** V. Meena, G. Indra, A. K. Das, Y. Park
 
 ## Repository structure
