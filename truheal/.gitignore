@@ -1,0 +1,11 @@
+work/
+__pycache__/
+*.pyc
+*.pt
+*.npz
+*.npy
+*.pcap
+ns-3*/
+ns3_pcaps/
+.ipynb_checkpoints/
+.DS_Store
