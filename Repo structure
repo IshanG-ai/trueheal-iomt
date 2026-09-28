@@ -1,0 +1,17 @@
+truheal-iomt/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── truheal/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── data.py
+│   ├── model.py
+│   └── engine.py
+├── scripts/
+│   ├── run_main.py
+│   ├── run_ablations.py
+│   ├── run_synthetic.py
+│   └── run_ns3.py
+└── ns3/
+    └── iomt.cc
