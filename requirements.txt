@@ -6,3 +6,5 @@ numba
 matplotlib
 seaborn
 scapy
+Dataset download required (66gb) and proper environment
+all requirements as stated
