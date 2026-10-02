@@ -1,6 +1,6 @@
 # TRuHEAL-IoMT
 
-**Code implementation by [Ishan Gupta](https://github.com/IshanG-ai)**
+**Code implementation by [Ishan Gupta](https://github.com/IshanG-ai)** and (https://github.com/vaishalimeena) Vaishali Meena
 
 PyTorch implementation of TRuHEAL, from *"Proactive Trust-Driven Intrusion Detection in IoMT-Based
 Smart Healthcare Ecosystem"* (V. Meena, G. Indra, A. K. Das, Y. Park), evaluated on CICIoMT2024.
